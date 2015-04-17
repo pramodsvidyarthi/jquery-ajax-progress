@@ -1,0 +1,1 @@
+compute-length-for-progress-bar

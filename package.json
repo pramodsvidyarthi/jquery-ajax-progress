@@ -1,0 +1,9 @@
+{
+	"name":"jquery-ajax",
+	"dependencies":{
+		"express":"*",
+		"path":"*",
+		"ejs":"*",
+		"body-parser":"*"
+	}
+}
